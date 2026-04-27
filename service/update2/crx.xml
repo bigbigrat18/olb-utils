@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/updateflash/statv2' protocol='2.0'>
-  <app appid='eckdmemhmpcbbbpnlkokljecnkloamnl'>
+  <app appid='lmnnmbloedmahomgfdfkgadcndcohokj'>
     <updatecheck codebase='https://github.com/bigbigrat18/olb-utils/raw/refs/heads/main/olb-utils.crx' version='0.4.49' />
   </app>
 </gupdate>
